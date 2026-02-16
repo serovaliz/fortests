@@ -8,6 +8,7 @@ def test_sum():
     b = 10
     assert a != b
 
+
 def test_01():
 
 
@@ -24,4 +25,5 @@ def test_01():
     submit_button.click()
     time.sleep(5)
     driver.quit()
+
 
